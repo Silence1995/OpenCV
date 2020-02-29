@@ -37,4 +37,4 @@ Using OpeCV to build some computer vision application, and using PyQt5 to build 
 - [PyQt5 & OpenCV](https://www.twblogs.net/a/5c55d115bd9eee06ee21b390)
 - [Connected Component Labeling in python](https://stackoverflow.com/questions/46441893/connected-component-labeling-in-python)
 - [Overlay image python OpenCV](https://stackoverflow.com/questions/14063070/overlay-a-smaller-image-on-a-larger-image-python-opencv)
-- [Skin color detection](https://nalinc.github.io/blog/2018/skin-detection-python-opencv/)
+- [Skin detection techniques](https://nalinc.github.io/blog/2018/skin-detection-python-opencv/)
